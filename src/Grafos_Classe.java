@@ -21,7 +21,7 @@ public class Grafos_Classe {
 	    scanner.close(); // fecha o scanner
 	  
 		/*
-		Aqui ele lerá a primeira linha do arquivo colocado na variável "arquivoDeTexto". 
+		Aqui ele lerá a primeira linha do arquivo escrito no console. 
 		Caso ele for orientado (directed), será mudado a variável para directed. 
 		Caso não for orientado (undirected), mudará a variável para undirected.
 		*/        
