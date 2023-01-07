@@ -4,7 +4,7 @@
 
 todo list:  
 ler modo dos grafos (x)  
-ler arestas dos grafos ( )
+ler arestas dos grafos ( )  
 desenvolver operações para inserção e remoção de vértices e arestas ( )  
 desenvolver procedimento para mostrar o grafo ( )  
 desenvolver uma função que devolve a representação do grafo em matriz de adjacência ( )  
