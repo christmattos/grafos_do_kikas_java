@@ -14,3 +14,5 @@ desenvolver uma função que devolve todos os vértices que são incidentes em u
 Desenvolver uma função que devolve o grafo complemento ( )  
 desenvolver uma função que devolve o grafo transposto (grafo formado pela inversão de todas as arestas) ( )  
 para cada item acima, deixe na forma de comentário qual a complexidade de tempo das funções que você desenvolveu ( )
+
+só pra avisar, fazer grafos em java ja morreu kkkkkkkkkkkkk python>>>>>>>> 
